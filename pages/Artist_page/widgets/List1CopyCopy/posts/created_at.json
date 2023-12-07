@@ -28,7 +28,7 @@
     "leftColumn": 35,
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Created At: {{currentItem.name}}",
+    "text": "Created At: {{currentItem.created_at}}",
     "key": "05vxy2a36d",
     "isDeprecated": false,
     "rightColumn": 49,

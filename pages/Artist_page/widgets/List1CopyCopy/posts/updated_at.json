@@ -28,7 +28,7 @@
     "leftColumn": 35,
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Updated At: {{currentItem.name}}",
+    "text": "Updated At: {{currentItem.updated_at}}",
     "key": "05vxy2a36d",
     "isDeprecated": false,
     "rightColumn": 49,

@@ -28,7 +28,7 @@
     "leftColumn": 22,
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Genre: {{currentItem.name}}",
+    "text": "Genre: {{currentItem.genre_name}}",
     "key": "mjdiltwfwp",
     "isDeprecated": false,
     "rightColumn": 62,
