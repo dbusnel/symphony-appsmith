@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "User_page",
-    "slug": "user-page",
+    "name": "Artist_page",
+    "slug": "artist-page",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1310,
+          "bottomRow": 1900,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "User_page_concerts_info",
+              "id": "Artist_page_concerts_info",
               "name": "concerts_info",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -40,7 +40,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "User_page",
+        "id": "Artist_page",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -51,5 +51,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "656d584f047b8824e64fa88a_656d584f047b8824e64fa88c"
+  "gitSyncId": "65712bf1f1136c5cc437881a_6571311bf1136c5cc4378830"
 }

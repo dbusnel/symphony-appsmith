@@ -15,6 +15,14 @@
     {
       "id": "Venue_page",
       "isDefault": false
+    },
+    {
+      "id": "Artist_page_artist_view",
+      "isDefault": false
+    },
+    {
+      "id": "Artist_page",
+      "isDefault": false
     }
   ],
   "viewMode": false,
