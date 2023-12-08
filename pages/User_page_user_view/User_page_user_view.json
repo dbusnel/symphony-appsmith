@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1000,
+          "bottomRow": 1410,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -31,14 +31,6 @@
             {
               "id": "User_page_user_view_concerts_info",
               "name": "concerts_info",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "User_page_user_view_user_genres",
-              "name": "user_genres",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],

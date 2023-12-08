@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Artist_page",
+    "pageId": "Artist_page_artist_view",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -59,7 +59,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Artist_page_artist_make_post",
+  "id": "Artist_page_artist_view_artist_make_post",
   "deleted": false,
   "gitSyncId": "65712bf1f1136c5cc437881a_657267367307e14a7a7555e4"
 }

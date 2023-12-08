@@ -1,6 +1,6 @@
 {
     "mobileBottomRow": 5,
-    "widgetName": "Make_new_post",
+    "widgetName": "Text4",
     "displayName": "Text",
     "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
     "searchTags": [
@@ -25,18 +25,18 @@
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
     "text": "Form",
-    "key": "b69a49clhp",
+    "key": "s5qhl0t6tp",
     "isDeprecated": false,
     "rightColumn": 25.5,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "jo1fo8y5e8",
+    "widgetId": "pa5acu2zmx",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
     "textColor": "#231F20",
     "version": 1,
-    "parentId": "q5vqv9r73y",
+    "parentId": "v9vn0yawat",
     "tags": [
         "Suggested",
         "Content"
