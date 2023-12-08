@@ -16,7 +16,8 @@
         {"key": "primaryKeys"},
         {"key": "accentColor"},
         {"key": "borderRadius"},
-        {"key": "boxShadow"}
+        {"key": "boxShadow"},
+        {"key": "listData"}
     ],
     "leftColumn": 48,
     "enhancements": true,
@@ -84,32 +85,17 @@
     "mobileBottomRow": 128,
     "currentItemsView": "{{[]}}",
     "triggeredItemView": "{{{}}}",
-    "widgetName": "List1Copy",
-    "listData": [
-        {
-            "img": "https://assets.appsmith.com/widgets/default.png",
-            "name": "Blue",
-            "id": "001"
-        },
-        {
-            "img": "https://assets.appsmith.com/widgets/default.png",
-            "name": "Green",
-            "id": "002"
-        },
-        {
-            "img": "https://assets.appsmith.com/widgets/default.png",
-            "name": "Red",
-            "id": "003"
-        }
-    ],
+    "widgetName": "topgenres2",
+    "listData": " {{topgenres.data}}",
     "displayName": "List",
     "bottomRow": 87,
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 64,
     "mainContainerId": "k52t8ri9hq",
-    "primaryKeys": "{{List1Copy.listData.map((currentItem, currentIndex) => currentItem[\"id\"] )}}",
+    "primaryKeys": "{{topgenres2.listData.map((currentItem, currentIndex) => currentItem[\"genre_name\"] )}}",
     "parentColumnSpace": 17.9375,
+    "dynamicTriggerPathList": [],
     "gridType": "vertical",
     "key": "oa8x9pfjwz",
     "backgroundColor": "transparent",
