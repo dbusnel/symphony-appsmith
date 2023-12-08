@@ -4,7 +4,7 @@
     "isCanvas": true,
     "templateHeight": 160,
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.5c9511142b3624c7491c5442e8ccd0ef.svg",
-    "topRow": 54,
+    "topRow": 61,
     "pageSize": 3,
     "type": "LIST_WIDGET_V2",
     "itemSpacing": 8,
@@ -76,7 +76,7 @@
     "isLoading": false,
     "mainCanvasId": "powl8ensnx",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 98,
+    "originalBottomRow": 105,
     "additionalStaticProps": [
         "level",
         "levelData",
@@ -89,7 +89,7 @@
     "widgetName": "list",
     "listData": "{{concerts_info.data}}",
     "displayName": "List",
-    "bottomRow": 98,
+    "bottomRow": 105,
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 25,
@@ -108,7 +108,7 @@
     "renderMode": "CANVAS",
     "mobileTopRow": 83,
     "responsiveBehavior": "fill",
-    "originalTopRow": 54,
+    "originalTopRow": 61,
     "mobileLeftColumn": 1,
     "selectedItemView": "{{{}}}"
 }

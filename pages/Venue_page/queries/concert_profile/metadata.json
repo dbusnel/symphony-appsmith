@@ -7,7 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/concerts/concerts/2"
+        "url": "web:4000/concerts/concerts/1"
       },
       "invalids": [],
       "messages": [],

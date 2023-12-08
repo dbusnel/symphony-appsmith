@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1910,
+          "bottomRow": 1740,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -39,6 +39,14 @@
             {
               "id": "Artist_page_artist_genre",
               "name": "artist_genre",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Artist_page_artists_profile",
+              "name": "artists_profile",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],

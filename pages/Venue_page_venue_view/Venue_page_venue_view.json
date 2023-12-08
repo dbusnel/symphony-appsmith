@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1410,
+          "bottomRow": 1460,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -28,6 +28,14 @@
         },
         "layoutOnLoadActions": [
           [
+            {
+              "id": "Venue_page_venue_view_concert_profile",
+              "name": "concert_profile",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
             {
               "id": "Venue_page_venue_view_concerts_info",
               "name": "concerts_info",

@@ -17,7 +17,7 @@
         {"key": "borderRadius"}
     ],
     "leftColumn": 0,
-    "defaultImage": "",
+    "defaultImage": "https://pbs.twimg.com/profile_images/1688611811933982720/_tovpXIN_400x400.jpg",
     "flexVerticalAlignment": "start",
     "key": "7y6w9b2ctc",
     "image": "{{currentItem.photo}}",
