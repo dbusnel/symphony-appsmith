@@ -2,12 +2,12 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "user_genres",
+    "name": "user_profile_info",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/users/users/2/topgenres"
+        "url": "web:4000/users/users/2"
       },
       "invalids": [],
       "messages": [],
@@ -47,7 +47,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "User_page_user_view_user_genres",
+  "id": "User_page_user_view_user_profile_info",
   "deleted": false,
-  "gitSyncId": "65712bf1f1136c5cc437881a_657283837ddf915bc0b9b868"
+  "gitSyncId": "65712bf1f1136c5cc437881a_657299bffc3f9b43c20e3885"
 }
