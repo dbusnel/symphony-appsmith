@@ -29,7 +29,7 @@
     "leftColumn": 52,
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "♡  {{currentItem.id}}",
+    "text": "♡  {{currentItem.likes}}",
     "key": "05vxy2a36d",
     "isDeprecated": false,
     "rightColumn": 59,

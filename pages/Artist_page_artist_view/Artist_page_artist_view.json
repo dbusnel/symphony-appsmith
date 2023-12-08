@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1870,
+          "bottomRow": 1470,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -28,6 +28,14 @@
         },
         "layoutOnLoadActions": [
           [
+            {
+              "id": "Artist_page_artist_view_artist_posts",
+              "name": "artist_posts",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
             {
               "id": "Artist_page_artist_view_concerts_info",
               "name": "concerts_info",
