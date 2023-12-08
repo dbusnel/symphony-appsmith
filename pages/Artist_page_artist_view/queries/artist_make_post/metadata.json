@@ -7,7 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "web:4000/artists/artists/2/posts"
+        "url": "web:4000/artists/artists/1/posts"
       },
       "invalids": [],
       "messages": [],
