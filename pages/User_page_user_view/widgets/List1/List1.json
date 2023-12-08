@@ -93,7 +93,7 @@
     "hideCard": false,
     "mobileRightColumn": 23,
     "mainContainerId": "xjte23p685",
-    "primaryKeys": "{{List1.listData.map((currentItem, currentIndex) => currentItem[\"id\"] )}}",
+    "primaryKeys": "{{List1.listData.map((currentItem, currentIndex) => currentItem[\"first_name\"] )}}",
     "parentColumnSpace": 17.9375,
     "dynamicTriggerPathList": [],
     "gridType": "vertical",

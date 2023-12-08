@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 1140,
+          "bottomRow": 1280,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -39,6 +39,14 @@
             {
               "id": "User_page_topgenres",
               "name": "topgenres",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "User_page_user_profile_info",
+              "name": "user_profile_info",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
